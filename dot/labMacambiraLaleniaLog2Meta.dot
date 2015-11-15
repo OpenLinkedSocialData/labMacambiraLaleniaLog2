@@ -4,11 +4,11 @@ digraph  {
 	"Snapshot labMacambiraLaleniaLog2"	 [color="#02F3DD",
 		style=filled];
 	0	 [color="#02F3F1",
-		label="2013-10-15",
+		label="2015-10-15",
 		style=filled];
 	"Snapshot labMacambiraLaleniaLog2" -> 0	 [label=createdAt];
 	1	 [color="#02F3F1",
-		label="2015-11-14 23:08:28.787135",
+		label="2015-11-15 02:23:26.399303",
 		style=filled];
 	"Snapshot labMacambiraLaleniaLog2" -> 1	 [label=triplifiedIn];
 	2	 [color="#02F3F1",

@@ -10,13 +10,13 @@
     rdfs:label "Snapshot labMacambiraLaleniaLog2" ;
     po:acquiredThrough "Lalenia supybot"^^xsd:string ;
     po:availableAt "https://github.com/ttm/"^^xsd:string ;
-    po:createdAt "2013-10-15"^^xsd:string ;
+    po:createdAt "2015-10-15"^^xsd:string ;
     po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/rdf/labMacambiraLaleniaLog2Meta.owl"^^xsd:string ;
     po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/rdf/labMacambiraLaleniaLog2Meta.ttl"^^xsd:string ;
     po:donatedBy "labMacambira.sf.net"^^xsd:string ;
     po:originalFile "https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/base/labmacambira_lalenia2.txt"^^xsd:string ;
     po:rdfFile "https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/rdf/labMacambiraLaleniaLog2Translate.owl"^^xsd:string ;
-    po:triplifiedIn "2015-11-14T23:08:28.787135"^^xsd:datetime ;
+    po:triplifiedIn "2015-11-15T02:23:26.399303"^^xsd:datetime ;
     po:ttlFile "https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/rdf/labMacambiraLaleniaLog2Translate.ttl"^^xsd:string ;
     rdfs:comment "The IRC log of channel #labmarambira at Freenode"^^xsd:string .
 
