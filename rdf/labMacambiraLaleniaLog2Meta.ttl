@@ -16,7 +16,7 @@
     po:donatedBy "labMacambira.sf.net"^^xsd:string ;
     po:originalFile "https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/base/labmacambira_lalenia2.txt"^^xsd:string ;
     po:rdfFile "https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/rdf/labMacambiraLaleniaLog2Translate.owl"^^xsd:string ;
-    po:triplifiedIn "2015-11-14T18:15:11.367912"^^xsd:datetime ;
+    po:triplifiedIn "2015-11-14T23:08:28.787135"^^xsd:datetime ;
     po:ttlFile "https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/rdf/labMacambiraLaleniaLog2Translate.ttl"^^xsd:string ;
     rdfs:comment "The IRC log of channel #labmarambira at Freenode"^^xsd:string .
 

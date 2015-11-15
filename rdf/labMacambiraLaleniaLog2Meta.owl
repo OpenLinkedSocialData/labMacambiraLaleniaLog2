@@ -5,18 +5,18 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#labMacambiraLaleniaLog2">
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/rdf/labMacambiraLaleniaLog2Meta.ttl</po:discoveryTTLFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lalenia supybot</po:acquiredThrough>
     <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/base/labmacambira_lalenia2.txt</po:originalFile>
-    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-14T18:15:11.367912</po:triplifiedIn>
-    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-10-15</po:createdAt>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/rdf/labMacambiraLaleniaLog2Meta.owl</po:discorveryRDFFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/rdf/labMacambiraLaleniaLog2Translate.owl</po:rdfFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/rdf/labMacambiraLaleniaLog2Translate.ttl</po:ttlFile>
     <rdfs:label>Snapshot labMacambiraLaleniaLog2</rdfs:label>
     <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/</po:availableAt>
-    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/rdf/labMacambiraLaleniaLog2Translate.owl</po:rdfFile>
-    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lalenia supybot</po:acquiredThrough>
-    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/rdf/labMacambiraLaleniaLog2Translate.ttl</po:ttlFile>
-    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The IRC log of channel #labmarambira at Freenode</rdfs:comment>
-    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/rdf/labMacambiraLaleniaLog2Meta.ttl</po:discoveryTTLFile>
     <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">labMacambira.sf.net</po:donatedBy>
-    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/labMacambiraLaleniaLog2/master/rdf/labMacambiraLaleniaLog2Meta.owl</po:discorveryRDFFile>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-10-15</po:createdAt>
     <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-14T23:08:28.787135</po:triplifiedIn>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The IRC log of channel #labmarambira at Freenode</rdfs:comment>
   </rdf:Description>
 </rdf:RDF>

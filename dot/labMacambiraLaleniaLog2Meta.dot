@@ -8,7 +8,7 @@ digraph  {
 		style=filled];
 	"Snapshot labMacambiraLaleniaLog2" -> 0	 [label=createdAt];
 	1	 [color="#02F3F1",
-		label="2015-11-14 18:15:11.367912",
+		label="2015-11-14 23:08:28.787135",
 		style=filled];
 	"Snapshot labMacambiraLaleniaLog2" -> 1	 [label=triplifiedIn];
 	2	 [color="#02F3F1",
